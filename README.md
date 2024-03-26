@@ -24,3 +24,11 @@ This project contains 2 diagrams:
 * conceptual_scheme.png: a diagram to easily visualize the connections between the tables
 * relational_scheme.png: a diagram explaining various types of columns in tables and their relationships, automatically 
 generated
+
+![relational_schema.png](relational_schema.png)
+![conceptual_schema.png](conceptual_schema.png)
+
+## Queries
+This project also contains multiple queries for SQL training in the `queries.sql`
+
+![img.png](img.png)
